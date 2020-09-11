@@ -1,0 +1,46 @@
+<resources>
+	<string name="app_name">Leaderboard</string>
+	<string name="leaders_learning">Learning Leaders</string>
+	<string name="leaders_skill">Skill IQ Leaders</string>
+	<string name="error_message">An error occured. Please, check your internet connectivity and try again.</string>
+	<string name="title_activity_submission">SubmissionActivity</string>
+	<!-- Strings used for fragments for navigation -->
+	<string name="first_fragment_label">First Fragment</string>
+	<string name="second_fragment_label">Second Fragment</string>
+	<string name="next">Next</string>
+	<string name="previous">Previous</string>
+
+	<string name="hello_first_fragment">Hello first fragment</string>
+	<string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+	<string name="first_name">First Name</string>
+	<string name="last_name">Last Name</string>
+	<string name="email_address">Email Address</string>
+	<string name="github_link">PROJECT ON GITHUB (link)</string>
+	<string name="submit">Submit</string>
+	<string name="title_submission">Project Submission</string>
+	<string name="title_activity_submit_app">SubmitAppActivity</string>
+
+	<!-- Preference Titles -->
+	<string name="messages_header">Messages</string>
+	<string name="sync_header">Sync</string>
+
+	<!-- Messages Preferences -->
+	<string name="signature_title">Your signature</string>
+	<string name="reply_title">Default reply action</string>
+
+	<!-- Sync Preferences -->
+	<string name="sync_title">Sync email periodically</string>
+	<string name="attachment_title">Download incoming attachments</string>
+	<string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+	<string name="attachment_summary_off">Only download attachments when manually requested</string>
+	<string name="title_activity_test">testAct</string>
+	<string name="are_you_sure_question">Are you sure?</string>
+	<string name="submission_sucessful">Submission Successful</string>
+	<string name="submission_failed">Submission not successful</string>
+	<string name="title_activity_lancher">LancherActivity</string>
+	<!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+	<string name="hello_world">Hello Square World!</string>
+</resources>
